@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "481578829106",
+    "firebase_url": "https://sytapp-c0bd5.firebaseio.com",
+    "project_id": "sytapp-c0bd5",
+    "storage_bucket": "sytapp-c0bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481578829106:android:399905f5a09eb88f4ac32b",
+        "android_client_info": {
+          "package_name": "com.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481578829106-jucmkqb3onbo4igs173rch011hffv4a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-z1HIFWA3f9th-hSRmTub63x2SIysIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481578829106-jucmkqb3onbo4igs173rch011hffv4a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481578829106:android:17fd0c81b3ebce8a4ac32b",
+        "android_client_info": {
+          "package_name": "com.syt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481578829106-jucmkqb3onbo4igs173rch011hffv4a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-z1HIFWA3f9th-hSRmTub63x2SIysIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481578829106-jucmkqb3onbo4igs173rch011hffv4a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481578829106:android:eb80d458e5b37a4f4ac32b",
+        "android_client_info": {
+          "package_name": "com.vendorsyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481578829106-dsaum0ahq4oihgp0tn5ndkant10k15af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vendorsyt",
+            "certificate_hash": "f87697e112714737c2839b78ef2c17939bec42f6"
+          }
+        },
+        {
+          "client_id": "481578829106-jucmkqb3onbo4igs173rch011hffv4a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-z1HIFWA3f9th-hSRmTub63x2SIysIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481578829106-jucmkqb3onbo4igs173rch011hffv4a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
