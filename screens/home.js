@@ -38,7 +38,7 @@ function Home(props) {
        // alert("");
         console.log("Here");
         checkban();
-    }, 1000*60); 
+    }, 5000*60); 
     const backAction = () => {
          
 

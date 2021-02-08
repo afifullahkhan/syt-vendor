@@ -125,6 +125,7 @@ export function DrawerContent(props) {
             )}
             label="Sign Out"
             onPress={() => {
+              clearTimeout();
               auth().signOut();
             }}
           />
